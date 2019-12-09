@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+test-for-receipt-OCR-e3f80220c980.json
